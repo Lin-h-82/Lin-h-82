@@ -32,7 +32,7 @@ I enjoy learning new tools, working on small projects, and building things that 
 - 🔧 Others: GitHub, Notion
 
 ---
-m
+
 ### 🌟 What I’m Learning Next
 - Basics of coding for research  
 - Git workflow & version control  

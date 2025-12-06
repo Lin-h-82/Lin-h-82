@@ -1,54 +1,24 @@
-## Hi there 👋
 
-I'm **Linh** — a Business Administration student who loves exploring how data, technology, and innovation can improve business performance.  
-I enjoy learning new tools, working on small projects, and building things that actually solve real problems ✨
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/linh-trần-khánh-113229360?utm_source=share_via&utm_content=profile&utm_medium=member_ios) 
 
----
+# 💻 Tech Stack:
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![Framework7](https://img.shields.io/badge/framework7-%23EE350F.svg?style=for-the-badge&logo=framework7&logoColor=white) ![Jasmine](https://img.shields.io/badge/jasmine-%238A4182.svg?style=for-the-badge&logo=jasmine&logoColor=white) ![Apache Ant](https://img.shields.io/badge/Apache%20Ant-A81C7D?style=for-the-badge&logo=Apache%20Ant&logoColor=white) ![Apache Airflow](https://img.shields.io/badge/Apache%20Airflow-017CEE?style=for-the-badge&logo=Apache%20Airflow&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![Sequelize](https://img.shields.io/badge/Sequelize-52B0E7?style=for-the-badge&logo=Sequelize&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Adobe XD](https://img.shields.io/badge/Adobe%20XD-470137?style=for-the-badge&logo=Adobe%20XD&logoColor=#FF61F6) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Playwright](https://img.shields.io/badge/-playwright-%232EAD33?style=for-the-badge&logo=playwright&logoColor=white) ![Terraform](https://img.shields.io/badge/terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white) ![Riot Games](https://img.shields.io/badge/riotgames-D32936.svg?style=for-the-badge&logo=riotgames&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=Lin-h-82&theme=shadow_blue&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=Lin-h-82&theme=shadow_blue&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Lin-h-82&theme=shadow_blue&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-### 🚀 About Me
-- 🔭 I’m currently working on:  
-  Improving my GitHub profile & building small academic/business projects  
-- 🌱 I’m currently learning:  
-  Business Administration, Research Methods, and beginner-level data tools  
-- 🤝 I’m looking to collaborate on:  
-  Research projects in sustainability, innovation, and business performance  
-- 🧠 I’m looking for help with:  
-  Turning research ideas into real working models  
-- 💬 Ask me about:  
-  Green innovation, organizational behavior, business analysis  
-- 📫 How to reach me:  
-  LinkIn: https://www.linkedin.com/in/linh-tr%E1%BA%A7n-kh%C3%A1nh-113229360?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app
-- 😄 Pronouns: she/her  
-- ⚡ Fun fact:  
-  I drink matcha at 11PM and still sleep like a log 😴✨
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=Lin-h-82&theme=shadow_blue&no-frame=false&no-bg=true&margin-w=4)
+
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
+
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=Lin-h-82&limit=5&theme=shadow_blue&combine_all_yearly_contributions=true)
 
 ---
+[![](https://visitcount.itsvg.in/api?id=Lin-h-82&icon=0&color=0)](https://visitcount.itsvg.in)
 
-### 🛠️ Tech & Tools I Use
-
-- 📊 Data: Excel, SPSS, basic Python  
-- 📝 Writing: Markdown, LaTeX (beginner)  
-- 📚 Research: Zotero, Mendeley  
-- 🔧 Others: GitHub, Notion
-
----
-
-### 🌟 What I’m Learning Next
-- Basics of coding for research  
-- Git workflow & version control  
-- Data visualization for academic projects  
-- Research design & model testing
-
----
-
-### 💡 Goals for 2025
-- Build a clean research portfolio  
-- Publish at least one academic assignment on GitHub  
-- Learn Python properly  
-- Strengthen my academic writing skills  
-- Create meaningful research around green innovation & SMEs
-
----
-
-### 🌸 Thanks for visiting!
-Feel free to explore my repos — more projects coming soon ✨  
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
